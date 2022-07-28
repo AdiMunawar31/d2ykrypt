@@ -1,7 +1,14 @@
+import nft0 from "../../images/nft/0.png";
+import nft1 from "../../images/nft/1.png";
+import nft2 from "../../images/nft/2.png";
+import nft3 from "../../images/nft/3.png";
+import nft4 from "../../images/nft/4.png";
+import nft5 from "../../images/nft/5.png";
+
 export default [
   {
     id: 1,
-    url: "../../images/nft/0.png",
+    url: nft0,
     message: "",
     timestamp: "31/07/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -10,7 +17,7 @@ export default [
   },
   {
     id: 2,
-    url: "../../images/nft/1.png",
+    url: nft1,
     message: "",
     timestamp: "31/07/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -19,7 +26,7 @@ export default [
   },
   {
     id: 3,
-    url: "../../images/nft/2.png",
+    url: nft2,
     message: "",
     timestamp: "31/07/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -28,7 +35,7 @@ export default [
   },
   {
     id: 4,
-    url: "../../images/nft/3.png",
+    url: nft3,
     message: "",
     timestamp: "31/07/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -37,7 +44,7 @@ export default [
   },
   {
     id: 5,
-    url: "../../images/nft/4.png",
+    url: nft4,
     message: "",
     timestamp: "31/07/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",
@@ -46,7 +53,7 @@ export default [
   },
   {
     id: 6,
-    url: "../../images/nft/5.png",
+    url: nft5,
     message: "",
     timestamp: "31/07/2021, 4:33:21 PM",
     addressFrom: "0xCF8e569A97C423952DdFf902375C7C76549A6A90",

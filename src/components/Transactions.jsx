@@ -1,6 +1,6 @@
 /* eslint-disable arrow-body-style */
 import React, { useContext } from "react";
-
+import nft from "../../images/nft/7.png";
 import { TransactionContext } from "../context/TransactionContext";
 
 import dummyData from "../utils/dummyData";
@@ -53,7 +53,7 @@ const TransactionsCard = ({
           )}
         </div>
         <img
-          src={url || "../../images/nft/7.png"}
+          src={url || nft}
           alt="nature"
           className="w-full h-64 2xl:h-96 rounded-md shadow-lg object-cover"
         />
